@@ -1,0 +1,2 @@
+# to swap a,b variable in python using tuple
+a, b = b, a
